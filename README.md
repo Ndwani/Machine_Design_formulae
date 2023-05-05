@@ -1,4 +1,4 @@
-# Machine_Design_formulas
+# Machine_Design_formulae
 This is a random collection of scripts that perform laborious calculations for certain Machine design problems
 
 Notch sensitivity deals and aids in calculating the corrected stress concentration factor for a fully  corrected endurance limit
